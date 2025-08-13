@@ -1,0 +1,5 @@
+Repository: beepmedia/mcp/mcp-dev/mcp-firecrawl
+Full path: /Users/andreihasna/Dev/beepmedia/mcp/mcp-dev/mcp-firecrawl
+
+  • Has uncommitted changes
+---
